@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 
 To analyse grocery sales data from multiple outlets to uncover patterns in product performance, outlet efficiency, and consumer preferences. The goal is to deliver actionable insights for inventory planning, pricing optimisation, and outlet-level strategy — ultimately improving profitability and customer satisfaction for Foodstuff.
 
@@ -34,11 +34,11 @@ To analyse grocery sales data from multiple outlets to uncover patterns in produ
 
 ## Key Findings
 
-- 🥛 Low Fat products dominate sales (53.27%), especially in Tier 1 locations
-- 🏪 Supermarket Type 1 outlets generate the highest revenue, but Type 3 has better sales per item
-- 📈 Outlet age positively correlates with sales — older outlets consistently perform better
-- 👀 Item visibility has a strong impact on sales; products with more than 10% visibility outperform others
-- 💰 High MRP does not guarantee high sales — price sensitivity varies by item type and outlet location
+-  Low Fat products dominate sales (53.27%), especially in Tier 1 locations
+-  Supermarket Type 1 outlets generate the highest revenue, but Type 3 has better sales per item
+-  Outlet age positively correlates with sales — older outlets consistently perform better
+-  Item visibility has a strong impact on sales; products with more than 10% visibility outperform others
+-  High MRP does not guarantee high sales — price sensitivity varies by item type and outlet location
 
 ---
 
